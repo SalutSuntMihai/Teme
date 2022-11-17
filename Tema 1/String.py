@@ -1,0 +1,1 @@
+# String este o variabila care poate fi un sir de caracterede la tastatura
