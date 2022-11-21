@@ -1,2 +1,2 @@
-hei\
-salut
+Bine ai venit !\
+Aici sunt temele.
